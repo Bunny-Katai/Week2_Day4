@@ -1,0 +1,35 @@
+
+.box{
+    margin: 100px auto auto auto;
+    border: 1px solid black;
+    padding: 25px 0 25px 0;
+    width: 230px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    
+
+}
+.box h2 {
+    text-align: center;
+}
+.First_Name{
+    text-align: center;
+    margin-bottom: 5px;
+    
+}
+.Last_Name{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.Email_Input{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.button{
+    text-align: center;
+    width: 220px;
+    margin-left: 5px;
+   
+   
+
+}
